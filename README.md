@@ -1,5 +1,5 @@
 ## broccolini
-A lightweight web browser for video game consoles and other low-dependency devices. Written in SDL2 using [Chesto](https://github.com/fortheusers/chesto), it supports viewing simple websites.
+A lightweight web browser for video game consoles and other low-dependency devices. Written in SDL2 using [Chesto](https://github.com/fortheusers/chesto), it supports viewing simple websites
 
 Broccolini uses [litehtml](https://github.com/litehtml/litehtml) as its rendering engine. litehtml is not intended to be used in a "full-fledged" browser, but it is usable! 
 
